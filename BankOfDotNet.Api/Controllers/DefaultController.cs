@@ -13,7 +13,7 @@ namespace BankOfDotNet.Api.Controllers
     [ApiController]
     public class DefaultController : ControllerBase
     {
-        // GET: api/Defaultggggdsfgsdfgsdfg
+        // GET: api/Defaultggggdsfgsdfgsdfgsdfgsdfgsdfg
         [HttpGet]
         public IEnumerable<string> Get()
         {
